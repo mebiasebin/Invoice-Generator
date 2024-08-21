@@ -12,9 +12,9 @@ function App() {
 
     const handleAddItem = (item) => {
 
-        axios.post('http://localhost:4000/api/v1/items/createInvoice', item)
+        axios.post('https://invoice-generator-backend-livid.vercel.app/api/v1/items/createInvoice', item)
         .then(() => {
-            return axios.get('http://localhost:4000/api/v1/items/readAll');
+            return axios.get('https://invoice-generator-backend-livid.vercel.app/api/v1/items/readAll');
         })
         .then(response => {
             console.log('Items Read:', response.data);
@@ -28,9 +28,9 @@ function App() {
     const handleDeleteItem = (index) => {
         const itemToDelete = items[index];
 
-        axios.delete(`http://localhost:4000/api/v1/items/deleteItem/${itemToDelete._id}`)
+        axios.delete(`https://invoice-generator-backend-livid.vercel.app/api/v1/items/deleteItem/${itemToDelete._id}`)
         .then(() => {
-            return axios.get('http://localhost:4000/api/v1/items/readAll');
+            return axios.get('https://invoice-generator-backend-livid.vercel.app/api/v1/items/readAll');
         })
         .then(response => {
             console.log('Items Read:', response.data);
@@ -48,7 +48,7 @@ function App() {
     };
 
     const handleDownloadPDF = () => {
-        axios.get('http://localhost:4000/api/v1/items/readAll')
+        axios.get('https://invoice-generator-backend-livid.vercel.app/api/v1/items/readAll')
             .then(response => {
                 const fetchedItems = response.data.data;
                 
@@ -87,7 +87,7 @@ function App() {
                 );
     
                 pdf.save('invoice.pdf');
-                return axios.delete('http://localhost:4000/api/v1/items/deleteAllItem');
+                return axios.delete('https://invoice-generator-backend-livid.vercel.app/api/v1/items/deleteAllItem');
             })
             .then(response => {
                 console.log('Items Deleted:', response.data);

@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/mebiasebin/Invoice-Generator.git/static/css/main.2267796f.css",
-    "main.js": "/mebiasebin/Invoice-Generator.git/static/js/main.d0f98eda.js",
-    "static/js/239.29d529b5.chunk.js": "/mebiasebin/Invoice-Generator.git/static/js/239.29d529b5.chunk.js",
-    "static/js/213.46f8a08e.chunk.js": "/mebiasebin/Invoice-Generator.git/static/js/213.46f8a08e.chunk.js",
-    "static/js/732.9e88f919.chunk.js": "/mebiasebin/Invoice-Generator.git/static/js/732.9e88f919.chunk.js",
-    "static/js/453.97d18808.chunk.js": "/mebiasebin/Invoice-Generator.git/static/js/453.97d18808.chunk.js",
-    "index.html": "/mebiasebin/Invoice-Generator.git/index.html",
-    "main.2267796f.css.map": "/mebiasebin/Invoice-Generator.git/static/css/main.2267796f.css.map",
-    "main.d0f98eda.js.map": "/mebiasebin/Invoice-Generator.git/static/js/main.d0f98eda.js.map",
-    "239.29d529b5.chunk.js.map": "/mebiasebin/Invoice-Generator.git/static/js/239.29d529b5.chunk.js.map",
-    "213.46f8a08e.chunk.js.map": "/mebiasebin/Invoice-Generator.git/static/js/213.46f8a08e.chunk.js.map",
-    "732.9e88f919.chunk.js.map": "/mebiasebin/Invoice-Generator.git/static/js/732.9e88f919.chunk.js.map",
-    "453.97d18808.chunk.js.map": "/mebiasebin/Invoice-Generator.git/static/js/453.97d18808.chunk.js.map"
+    "main.css": "/mebiasebin/Invoice-Generator/static/css/main.51bb411a.css",
+    "main.js": "/mebiasebin/Invoice-Generator/static/js/main.2db90444.js",
+    "static/js/743.fc179466.chunk.js": "/mebiasebin/Invoice-Generator/static/js/743.fc179466.chunk.js",
+    "static/js/621.a4f00eb4.chunk.js": "/mebiasebin/Invoice-Generator/static/js/621.a4f00eb4.chunk.js",
+    "static/js/734.6ae9a5ff.chunk.js": "/mebiasebin/Invoice-Generator/static/js/734.6ae9a5ff.chunk.js",
+    "static/js/317.931cc088.chunk.js": "/mebiasebin/Invoice-Generator/static/js/317.931cc088.chunk.js",
+    "index.html": "/mebiasebin/Invoice-Generator/index.html",
+    "main.51bb411a.css.map": "/mebiasebin/Invoice-Generator/static/css/main.51bb411a.css.map",
+    "main.2db90444.js.map": "/mebiasebin/Invoice-Generator/static/js/main.2db90444.js.map",
+    "743.fc179466.chunk.js.map": "/mebiasebin/Invoice-Generator/static/js/743.fc179466.chunk.js.map",
+    "621.a4f00eb4.chunk.js.map": "/mebiasebin/Invoice-Generator/static/js/621.a4f00eb4.chunk.js.map",
+    "734.6ae9a5ff.chunk.js.map": "/mebiasebin/Invoice-Generator/static/js/734.6ae9a5ff.chunk.js.map",
+    "317.931cc088.chunk.js.map": "/mebiasebin/Invoice-Generator/static/js/317.931cc088.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2267796f.css",
-    "static/js/main.d0f98eda.js"
+    "static/css/main.51bb411a.css",
+    "static/js/main.2db90444.js"
   ]
 }
