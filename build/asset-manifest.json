@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/mebiasebin/Invoice-Generator.git/static/css/main.2267796f.css",
+    "main.js": "/mebiasebin/Invoice-Generator.git/static/js/main.d0f98eda.js",
+    "static/js/239.29d529b5.chunk.js": "/mebiasebin/Invoice-Generator.git/static/js/239.29d529b5.chunk.js",
+    "static/js/213.46f8a08e.chunk.js": "/mebiasebin/Invoice-Generator.git/static/js/213.46f8a08e.chunk.js",
+    "static/js/732.9e88f919.chunk.js": "/mebiasebin/Invoice-Generator.git/static/js/732.9e88f919.chunk.js",
+    "static/js/453.97d18808.chunk.js": "/mebiasebin/Invoice-Generator.git/static/js/453.97d18808.chunk.js",
+    "index.html": "/mebiasebin/Invoice-Generator.git/index.html",
+    "main.2267796f.css.map": "/mebiasebin/Invoice-Generator.git/static/css/main.2267796f.css.map",
+    "main.d0f98eda.js.map": "/mebiasebin/Invoice-Generator.git/static/js/main.d0f98eda.js.map",
+    "239.29d529b5.chunk.js.map": "/mebiasebin/Invoice-Generator.git/static/js/239.29d529b5.chunk.js.map",
+    "213.46f8a08e.chunk.js.map": "/mebiasebin/Invoice-Generator.git/static/js/213.46f8a08e.chunk.js.map",
+    "732.9e88f919.chunk.js.map": "/mebiasebin/Invoice-Generator.git/static/js/732.9e88f919.chunk.js.map",
+    "453.97d18808.chunk.js.map": "/mebiasebin/Invoice-Generator.git/static/js/453.97d18808.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2267796f.css",
+    "static/js/main.d0f98eda.js"
+  ]
+}
